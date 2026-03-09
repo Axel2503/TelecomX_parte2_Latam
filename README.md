@@ -43,3 +43,5 @@ Basado en los modelos predictivos, se sugiere a Telecom X:
 
 ---
 *Desarrollado por Axel Edwin Serrano Ruiz*
+| ![Imagen](https://github.com/user-attachments/assets/b056c417-64ea-47ef-a64e-144917396f74) |
+| :---: |
